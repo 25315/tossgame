@@ -1,0 +1,75 @@
+body{
+    background-image: url(https://img.freepik.com/premium-photo/judge-s-gavel-wooden-background-top-view_99433-287.jpg?w=2000);
+}
+h1{
+  text-align: center;
+  font-size: 10rem;
+  position: relative;
+  bottom: 80px;
+}
+.btn{
+  visibility: visible;
+  height: 50px;
+  width: 80px;
+  position: relative;
+  bottom: 300px;
+  left: 350px;
+  background: green;
+  cursor: pointer;
+}
+.btn1{
+  visibility: visible;
+  height: 50px;
+  width: 80px;
+  position: relative;
+  bottom: 300px;
+  left: 450px;
+  background: blue;
+  cursor: pointer;
+}
+.flag{
+  visibility: visible;
+  position: relative;
+  bottom: 360px;
+}
+.flag1{
+    visibility: hidden;
+    position: relative;
+    bottom: 360px;
+}
+img{
+  height: 250px;
+  width: 250px;
+}
+.container{
+  /* display: ; */
+}
+h6{
+  font-size: 2rem;
+  margin-top: 0;
+  margin-bottom: 0;
+
+  /* width: 50%; */
+  /* margin-right: 0;
+  margin-left: 0; */
+  /* text-align: center; */
+}
+.Player1{
+  width: 50%;
+  text-align: center;
+  position: relative;
+  bottom: 100px;
+}
+.Player2{
+  width: 50%;
+  text-align: center;
+  position: relative;
+  left: 50%;
+  bottom: 390px;
+}
+h4,h5{
+  text-align: right;
+  margin-bottom: 0;
+  margin-top: 0;
+  color: red;
+}
